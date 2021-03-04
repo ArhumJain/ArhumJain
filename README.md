@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arhumjain&label=Profile%20views&color=7734eb&style=flat-square" alt="arhumjain" /> </p>
 <img align="center" src="introtokyonightcustom.gif" alt="👋 Hi there! I'm Arhum Jain" title="👋 Hi there! I'm Arhum Jain!"/>
-<h3 align="center"><em>I'm a passionate full stack developer, web automator, and avid learner!</em></h3>
+<h3 align="left"><em>I'm a passionate full stack developer, web automator, and avid learner!</em></h3>
 
 - 🔭 I’m currently working on **Kali, a discord bot!**
 
