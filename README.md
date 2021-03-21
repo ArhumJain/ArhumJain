@@ -2,7 +2,7 @@
 <img align="center" src="introtokyonightcustom.gif" alt="👋 Hi there! I'm Arhum Jain" title="👋 Hi there! I'm Arhum Jain!"/>
 <h3 align="left"><em>I'm a passionate full stack developer, web automator, and avid learner!</em></h3>
 
-- 🔭 I’m currently working on **Kali, a discord bot!**
+- 🔭 I’m currently working on **a sudoku solver!**
 
 - 🌱 I’m currently learning **VueJS, ReactJS, and Tensorflow**
 
