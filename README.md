@@ -1,16 +1,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arhumjain&label=Profile%20views&color=7734eb&style=flat-square" alt="arhumjain" /> </p>
 <img align="center" src="introtokyonightcustom.gif" alt="👋 Hi there! I'm Arhum Jain" title="👋 Hi there! I'm Arhum Jain!"/>
-<h3 align="left"><em>I'm a passionate full stack developer, web automator, and avid learner!</em></h3>
+<h3 align="left"><em>I'm a data scientist, web automator, and I like to make other random stuff!</em></h3>
 
 - 🔭 I’m currently working on **¯\\_(ツ)\_/¯**
 
-- 🌱 I’m currently learning **VueJS, ReactJS, and Tensorflow**
+- 🌱 I’m currently learning **how to take over the world with AI**
 
 - 🤝 I’m looking for help with **Neural Networks and Machine Learning!**
 
 - 📫 How to reach me **arhumjain10@gmail.com** or add me on Discord at Isukali#2787!
 
-- ⚡ Fun fact **I love learning!**
+- ⚡ Fun fact **Sophia is my best friend.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
