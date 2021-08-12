@@ -1,4 +1,4 @@
-<em> Disclaimer: HIGHLY clickbaity and obnoxious profile ahead. Saturated with cringe and is unsafe for reading. Proceed with caution. </em>
+<em> Disclaimer: HIGHLY clickbaity and obnoxious profile ahead. Proceed with caution. </em>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arhumjain&label=Profile%20views&color=7734eb&style=flat-square" alt="arhumjain" /> </p>
 <img align="center" src="introtokyonightcustom.gif" alt="👋 Hi there! I'm Arhum Jain" title="👋 Hi there! I'm Arhum Jain!"/>
 <h3 align="left"><em>I'm a data scientist, web automator, and I like to make other random stuff</em></h3>
