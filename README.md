@@ -2,7 +2,7 @@
 
 ### Contact me:
 - Discord: _Isukali#2787_
-- Email: arhum@jaindev.org
+- Email: arhumjain10@gmail.com
 
 
 ### Some Github Stats to Make This Page Fancier
